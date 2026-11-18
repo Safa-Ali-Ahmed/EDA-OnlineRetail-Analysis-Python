@@ -63,18 +63,3 @@ To run the notebook locally:
 ## Feedback
 
 If you have any suggestions or feedback, feel free to open an issue or connect with me on [LinkedIn](https://www.linkedin.com/in/safaali-da/).
-
----
-
-## Future Enhancements
-- Integration with live data sources.
-- Advanced machine learning insights using Python/R integration.
-- Adding more custom visuals for deeper analysis.
----
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-
-
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
