@@ -49,13 +49,7 @@ To run the notebook locally:
    git clone https://github.com/Safa-Ali-Ahmed/EDA-OnlineRetail-Python-Analysis.git
    cd your-repo-name
    ```
-
-2. Install dependencies:
-   ``you should install required libiraries like pandas,matplotlib,numpy and python in the first place if you will use VS code but you can use GoogleColab and there is no need for installing any thing
- 
-   ```
-
-3. Launch the notebook:
+2. Launch the notebook:
    ```bash
    jupyter notebook EDA-for-OnlineRetail.ipynb
    ```
